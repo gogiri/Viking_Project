@@ -53,7 +53,6 @@
 ![6fa5094e0fd85b98a9eee4cc50c05ce6-54](https://github.com/gogiri/Viking_Project/assets/139231430/7e0ba984-ffc8-48da-96bf-219a53085e6e)
 ![6fa5094e0fd85b98a9eee4cc50c05ce6-55](https://github.com/gogiri/Viking_Project/assets/139231430/1bf285ca-d09a-4914-88dd-6b96cfc79b7e)
 ![6fa5094e0fd85b98a9eee4cc50c05ce6-56](https://github.com/gogiri/Viking_Project/assets/139231430/8130948d-37e8-4e81-b433-07c569bb40e8)
-![6fa5094e0fd85b98a9eee4cc50c05ce6-57](https://github.com/gogiri/Viking_Project/assets/139231430/de5c1701-6aea-4312-912d-0f304f3438bd)
 
 한계점
 - stationary한 데이터를 활용하지 않았다. 가격 변화량이 아닌 가격으로 Label을 설정해 예측값이 Lagging 되는 현상이 발생. Label을 차분할 경우, 예측성능이 크게 하락. 따라서 결과의 신뢰성이 크게 떨어진다.
